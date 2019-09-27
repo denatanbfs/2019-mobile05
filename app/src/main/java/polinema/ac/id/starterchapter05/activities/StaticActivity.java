@@ -8,6 +8,7 @@ import polinema.ac.id.starterchapter05.R;
 
 public class StaticActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
